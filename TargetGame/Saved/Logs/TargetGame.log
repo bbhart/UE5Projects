@@ -4302,3 +4302,97 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.07.10-19.48.04:915][345]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.10-19.48.04:915][345]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.07.10-19.48.04:916][345]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.07.10-19.52.00:938][ 77]BlueprintLog: New page: Compile GM_TargetGame
+[2021.07.10-19.52.01:006][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.07.10-19.52.01:184][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brian/GM_TargetGame" FILE="../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Content/Brian/GM_TargetGame.uasset" SILENT=true
+[2021.07.10-19.52.01:201][ 77]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Saved/GM_TargetGame07B54C4D4EB5A589D44D1DB4D40076D8.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Content/Brian/GM_TargetGame.uasset'
+[2021.07.10-19.52.01:233][ 77]AssetCheck: New page: Asset Save: GM_TargetGame
+[2021.07.10-19.52.01:233][ 77]LogContentValidation: Display: Validating Blueprint /Game/Brian/GM_TargetGame.GM_TargetGame
+[2021.07.10-19.53.22:222][883]BlueprintLog: New page: Compile GM_TargetGame
+[2021.07.10-19.53.22:289][883]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.07.10-19.53.22:457][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brian/GM_TargetGame" FILE="../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Content/Brian/GM_TargetGame.uasset" SILENT=true
+[2021.07.10-19.53.22:472][883]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Saved/GM_TargetGame271B0B0E423000C83F4BFBAD029177D3.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Content/Brian/GM_TargetGame.uasset'
+[2021.07.10-19.53.22:504][883]AssetCheck: New page: Asset Save: GM_TargetGame
+[2021.07.10-19.53.22:504][883]LogContentValidation: Display: Validating Blueprint /Game/Brian/GM_TargetGame.GM_TargetGame
+[2021.07.10-19.53.23:686][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.07.10-19.53.23:690][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.10-19.53.23:690][  2]PIE: New page: PIE session: FirstPersonExampleMap (Jul 10, 2021, 11:53:23 AM)
+[2021.07.10-19.53.23:690][  2]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.10-19.53.23:699][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008888s)
+[2021.07.10-19.53.23:700][  2]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.10-19.53.23:701][  2]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2021.07.10-19.53.23:701][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010255s)
+[2021.07.10-19.53.23:749][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.07.10-19.53.23:753][  2]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2021.07.10-19.53.23:753][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.10-19.53.23:753][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.10-19.53.23:753][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.10-19.53.23:753][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.10-19.53.23:753][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.10-19.53.23:753][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.10-19.53.23:753][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.10-19.53.23:753][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.10-19.53.23:753][  2]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.10-19.53.23:753][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.10-19.53.23:756][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.10-19.53.23:756][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.07.10-19.53.23:766][  2]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.10-19.53.23:766][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.10-19.53.23:766][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.10-19.53.23:766][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.10-19.53.23:767][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.10-19.53.23:767][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.10-19.53.23:768][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.10-19.53.23:768][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.10-19.53.23:768][  2]LogInit: FAudioDevice initialized.
+[2021.07.10-19.53.23:768][  2]LogAudio: Display: Audio Device (ID: 48) registered with world 'FirstPersonExampleMap'.
+[2021.07.10-19.53.23:820][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-19.53.23:821][  2]LogLoad: Game class is 'GM_TargetGame_C'
+[2021.07.10-19.53.23:822][  2]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.07.10-15.53.23
+[2021.07.10-19.53.23:822][  2]LogWorld: Bringing up level for play took: 0.001273
+[2021.07.10-19.53.23:822][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2021.07.10-19.53.23:825][  2]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.07.10-19.53.23:827][  2]PIE: Server logged in
+[2021.07.10-19.53.23:829][  2]PIE: Play in editor total start time 0.139 seconds.
+[2021.07.10-19.53.27:426][357]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.07.10-19.53.27:426][357]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.10-19.53.27:426][357]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.07.10-19.53.29:453][575]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.07.10-19.53.29:453][575]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2021.07.10-19.53.29:453][575]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.10-19.53.29:454][575]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-19.53.29:454][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-19.53.29:516][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.10-19.53.29:521][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.07.10-19.53.29:523][575]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.10-19.53.29:531][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008439s)
+[2021.07.10-19.53.29:533][575]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.10-19.53.29:533][575]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2021.07.10-19.53.29:533][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010170s)
+[2021.07.10-19.53.29:533][575]LogAudio: Display: Audio Device (ID: 48) registered with world 'FirstPersonExampleMap'.
+[2021.07.10-19.53.29:533][575]LogLoad: Game class is 'GM_TargetGame_C'
+[2021.07.10-19.53.29:544][575]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.07.10-15.53.29
+[2021.07.10-19.53.29:544][575]LogWorld: Bringing up level for play took: 0.010545
+[2021.07.10-19.53.29:546][575]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.07.10-19.53.29:546][575]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.07.10-19.53.29:546][575]LogLoad: Took 0.092513 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2021.07.10-19.53.37:461][455]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.07.10-19.53.37:461][455]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.07.10-19.53.37:461][455]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.07.10-19.53.44:161][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.10-19.53.44:161][202]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.10-19.53.44:161][202]LogSlate: Window 'TargetGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.10-19.53.44:166][202]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.10-19.53.44:167][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-19.53.44:177][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.10-19.53.44:184][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.10-19.53.44:221][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.10-19.53.44:221][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.10-19.53.44:222][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.10-19.53.44:228][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.07.10-19.53.44:270][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.07.10-19.53.44:286][203]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2021.07.10-19.53.52:259][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brian/GM_TargetGame" FILE="../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Content/Brian/GM_TargetGame.uasset" SILENT=true
+[2021.07.10-19.53.52:274][120]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Saved/GM_TargetGame01081B29474D253D43E1E8BA5271568F.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/TargetGame/Content/Brian/GM_TargetGame.uasset'
+[2021.07.10-19.53.52:290][120]AssetCheck: New page: Asset Save: GM_TargetGame
+[2021.07.10-19.53.52:290][120]LogContentValidation: Display: Validating Blueprint /Game/Brian/GM_TargetGame.GM_TargetGame

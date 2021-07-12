@@ -1868,3 +1868,354 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.07.12-14.14.54:529][977]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.12-14.14.54:529][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPerson/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.07.12-14.14.54:529][977]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.07.12-14.23.33:162][717]BlueprintLog: New page: Compile BP_Block
+[2021.07.12-14.23.33:206][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.07.12-14.23.33:398][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Block" FILE="../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/Blueprints/BP_Block.uasset" SILENT=true
+[2021.07.12-14.23.33:406][717]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/BP_BlockED7C381547CA2BFC6D56C1BDFDDA8BE1.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/Blueprints/BP_Block.uasset'
+[2021.07.12-14.23.33:425][717]AssetCheck: New page: Asset Save: BP_Block
+[2021.07.12-14.23.33:425][717]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2021.07.12-14.24.53:989][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.07.12-14.24.54:004][673]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonExampleMap_Auto582994EC843D8D4FD150CE29A1A5A0A73.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonExampleMap_Auto5.umap'
+[2021.07.12-14.24.54:006][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonExampleMap' took 0.047
+[2021.07.12-14.24.54:006][673]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.07.12-14.33.54:653][469]BlueprintLog: New page: Compile BP_Block
+[2021.07.12-14.33.54:706][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.07.12-14.33.54:889][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Block" FILE="../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/Blueprints/BP_Block.uasset" SILENT=true
+[2021.07.12-14.33.54:897][469]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/BP_Block7D7E149248CBEF0EFBB946B85DC9D582.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/Blueprints/BP_Block.uasset'
+[2021.07.12-14.33.54:916][469]AssetCheck: New page: Asset Save: BP_Block
+[2021.07.12-14.33.54:916][469]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2021.07.12-14.34.54:071][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.07.12-14.34.54:086][438]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonExampleMap_Auto6CA8C3BA1468FFDD2F2B1FEA434E5F151.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonExampleMap_Auto6.umap'
+[2021.07.12-14.34.54:087][438]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonExampleMap' took 0.041
+[2021.07.12-14.34.54:087][438]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2021.07.12-14.34.54:088][438]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Block] ([1] browsable assets)...
+[2021.07.12-14.34.54:135][438]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Block.BP_Block]
+[2021.07.12-14.34.54:135][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Block]
+[2021.07.12-14.34.54:144][438]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/BP_Block_Auto6077F3404459A3328DCDC5494A6022421.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/Autosaves/Game/Blueprints/BP_Block_Auto6.uasset'
+[2021.07.12-14.34.54:144][438]LogFileHelpers: Auto-saving content packages took 0.057
+[2021.07.12-14.50.05:859][264]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.07.12-14.50.05:904][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.07.12-14.50.06:074][264]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonCharacter6F853614425CA32C7D51CDAD99CD73D3.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/FirstPerson/Blueprints/FirstPersonCharacter.uasset'
+[2021.07.12-14.50.06:086][264]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.07.12-14.50.06:086][264]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.07.12-14.50.07:120][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.07.12-14.50.07:125][365]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.07.12-14.50.07:131][365]LogPlayLevel: [PlayLevel] Compiling BP_Block before play...
+[2021.07.12-14.50.07:338][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Block" FILE="../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/Blueprints/BP_Block.uasset" SILENT=true
+[2021.07.12-14.50.07:347][365]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/BP_Block637277A0437B430B3DBE1DAF816D976B.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/Blueprints/BP_Block.uasset'
+[2021.07.12-14.50.07:383][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.07.12-14.50.07:386][365]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2021.07.12-14.50.07:386][365]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2021, 6:50:07 AM)
+[2021.07.12-14.50.07:386][365]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-14.50.07:396][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009661s)
+[2021.07.12-14.50.07:397][365]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.12-14.50.07:397][365]LogPlayLevel: PIE: World Init took: (0.001350s)
+[2021.07.12-14.50.07:397][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011143s)
+[2021.07.12-14.50.07:426][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.07.12-14.50.07:427][365]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.07.12-14.50.07:427][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.12-14.50.07:427][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.12-14.50.07:427][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.12-14.50.07:427][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.12-14.50.07:427][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.12-14.50.07:427][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.12-14.50.07:427][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.12-14.50.07:427][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.12-14.50.07:427][365]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.12-14.50.07:427][365]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.12-14.50.07:430][365]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.12-14.50.07:430][365]LogAudioMixer: Display: 1: FrontRight
+[2021.07.12-14.50.07:441][365]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.12-14.50.07:441][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.12-14.50.07:441][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.12-14.50.07:441][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.12-14.50.07:442][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.12-14.50.07:442][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.12-14.50.07:442][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.12-14.50.07:442][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.12-14.50.07:442][365]LogInit: FAudioDevice initialized.
+[2021.07.12-14.50.07:442][365]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2021.07.12-14.50.07:487][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-14.50.07:487][365]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.12-14.50.07:489][365]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.07.12-10.50.07
+[2021.07.12-14.50.07:489][365]LogWorld: Bringing up level for play took: 0.001264
+[2021.07.12-14.50.07:489][365]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.07.12-14.50.07:492][365]PIE: Server logged in
+[2021.07.12-14.50.07:493][365]PIE: Play in editor total start time 0.369 seconds.
+[2021.07.12-14.50.07:587][366]AssetCheck: New page: Asset Save: BP_Block
+[2021.07.12-14.50.07:587][366]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2021.07.12-14.50.17:860][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-14.50.17:860][487]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-14.50.17:860][487]LogSlate: Window 'BlockGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.12-14.50.17:866][487]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-14.50.17:867][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-14.50.17:872][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.12-14.50.17:876][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-14.50.17:899][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-14.50.17:900][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-14.50.17:906][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.07.12-14.50.17:931][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.07.12-14.50.17:946][488]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.07.12-14.50.51:331][765]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.07.12-14.50.51:333][765]LogBlueprint: Warning: [AssetLog] C:\Users\Brian Hart\dev\UE5Projects\BlockGame\Content\FirstPerson\Blueprints\FirstPersonCharacter.uasset: [Compiler] Set CurrentBlock  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.07.12-14.50.51:336][765]LogBlueprint: Error: [AssetLog] C:\Users\Brian Hart\dev\UE5Projects\BlockGame\Content\FirstPerson\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Block_C, therefore ' Target ' must have a connection.
+[2021.07.12-14.50.51:375][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.07.12-14.51.26:181][603]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.07.12-14.51.26:183][603]LogBlueprint: Warning: [AssetLog] C:\Users\Brian Hart\dev\UE5Projects\BlockGame\Content\FirstPerson\Blueprints\FirstPersonCharacter.uasset: [Compiler] Set CurrentBlock  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.07.12-14.51.26:186][603]LogBlueprint: Error: [AssetLog] C:\Users\Brian Hart\dev\UE5Projects\BlockGame\Content\FirstPerson\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Block_C, therefore ' Target ' must have a connection.
+[2021.07.12-14.51.26:225][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.07.12-14.52.09:581][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.07.12-14.52.09:596][ 49]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonExampleMap_Auto7A82350E54C38637D702FFCBCD43388CE.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonExampleMap_Auto7.umap'
+[2021.07.12-14.52.09:598][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonExampleMap' took 0.044
+[2021.07.12-14.52.09:598][ 49]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2021.07.12-14.52.09:599][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2021.07.12-14.52.09:599][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/FirstPersonCharacter]
+[2021.07.12-14.52.09:617][ 49]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonCharacter_Auto771E8C35148CDA1B3C07BFDAE2E44A86F.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/Autosaves/Game/FirstPerson/Blueprints/FirstPersonCharacter_Auto7.uasset'
+[2021.07.12-14.52.09:618][ 49]LogFileHelpers: Auto-saving content packages took 0.019
+[2021.07.12-14.55.03:571][392]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.07.12-14.55.03:574][392]LogBlueprint: Warning: [AssetLog] C:\Users\Brian Hart\dev\UE5Projects\BlockGame\Content\FirstPerson\Blueprints\FirstPersonCharacter.uasset: [Compiler] Set CurrentBlock  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.07.12-14.55.03:577][392]LogBlueprint: Error: [AssetLog] C:\Users\Brian Hart\dev\UE5Projects\BlockGame\Content\FirstPerson\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Block_C, therefore ' Target ' must have a connection.
+[2021.07.12-14.55.03:619][392]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.07.12-14.57.04:370][429]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.07.12-14.57.04:375][429]LogBlueprint: Error: [AssetLog] C:\Users\Brian Hart\dev\UE5Projects\BlockGame\Content\FirstPerson\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Block_C, therefore ' Target ' must have a connection.
+[2021.07.12-14.57.04:416][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.07.12-14.57.19:949][228]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.07.12-14.57.19:996][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.07.12-14.57.20:153][228]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonCharacter2D34E2B94F76C019511585B8223C492B.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/FirstPerson/Blueprints/FirstPersonCharacter.uasset'
+[2021.07.12-14.57.20:165][228]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.07.12-14.57.20:165][228]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.07.12-14.57.32:973][752]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.07.12-14.57.32:979][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.12-14.57.32:979][752]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2021, 6:57:32 AM)
+[2021.07.12-14.57.32:979][752]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-14.57.32:989][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010258s)
+[2021.07.12-14.57.32:990][752]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.12-14.57.32:991][752]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2021.07.12-14.57.32:991][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011876s)
+[2021.07.12-14.57.33:020][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.07.12-14.57.33:023][752]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.07.12-14.57.33:023][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.12-14.57.33:023][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.12-14.57.33:023][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.12-14.57.33:023][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.12-14.57.33:023][752]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.12-14.57.33:023][752]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.12-14.57.33:023][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.12-14.57.33:023][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.12-14.57.33:023][752]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.12-14.57.33:023][752]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.12-14.57.33:026][752]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.12-14.57.33:026][752]LogAudioMixer: Display: 1: FrontRight
+[2021.07.12-14.57.33:037][752]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.12-14.57.33:037][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.12-14.57.33:037][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.12-14.57.33:037][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.12-14.57.33:038][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.12-14.57.33:038][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.12-14.57.33:038][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.12-14.57.33:038][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.12-14.57.33:038][752]LogInit: FAudioDevice initialized.
+[2021.07.12-14.57.33:038][752]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2021.07.12-14.57.33:083][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-14.57.33:083][752]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.12-14.57.33:084][752]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.07.12-10.57.33
+[2021.07.12-14.57.33:084][752]LogWorld: Bringing up level for play took: 0.001282
+[2021.07.12-14.57.33:085][752]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.07.12-14.57.33:088][752]PIE: Server logged in
+[2021.07.12-14.57.33:090][752]PIE: Play in editor total start time 0.113 seconds.
+[2021.07.12-14.57.50:069][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-14.57.50:069][493]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-14.57.50:070][493]LogSlate: Window 'BlockGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.12-14.57.50:075][493]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-14.57.50:075][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-14.57.50:085][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.12-14.57.50:091][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-14.57.50:113][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.12-14.57.50:113][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-14.57.50:114][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-14.57.50:121][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.07.12-14.57.50:144][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.07.12-14.57.50:159][494]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.07.12-14.58.39:827][100]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.07.12-14.58.39:875][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.07.12-14.58.40:042][100]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonCharacter236C5EB0452D79914EC0F7916ADC4187.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/FirstPerson/Blueprints/FirstPersonCharacter.uasset'
+[2021.07.12-14.58.40:055][100]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.07.12-14.58.40:055][100]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.07.12-14.58.41:811][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.07.12-14.58.41:815][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.12-14.58.41:815][288]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2021, 6:58:41 AM)
+[2021.07.12-14.58.41:815][288]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-14.58.41:825][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009156s)
+[2021.07.12-14.58.41:826][288]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.12-14.58.41:826][288]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2021.07.12-14.58.41:826][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010648s)
+[2021.07.12-14.58.41:854][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.07.12-14.58.41:856][288]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.07.12-14.58.41:856][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.12-14.58.41:856][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.12-14.58.41:856][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.12-14.58.41:856][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.12-14.58.41:856][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.12-14.58.41:856][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.12-14.58.41:856][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.12-14.58.41:856][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.12-14.58.41:857][288]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.12-14.58.41:857][288]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.12-14.58.41:859][288]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.12-14.58.41:859][288]LogAudioMixer: Display: 1: FrontRight
+[2021.07.12-14.58.41:869][288]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.12-14.58.41:870][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.12-14.58.41:870][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.12-14.58.41:870][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.12-14.58.41:870][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.12-14.58.41:870][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.12-14.58.41:871][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.12-14.58.41:871][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.12-14.58.41:871][288]LogInit: FAudioDevice initialized.
+[2021.07.12-14.58.41:871][288]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2021.07.12-14.58.41:920][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-14.58.41:920][288]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.12-14.58.41:921][288]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.07.12-10.58.41
+[2021.07.12-14.58.41:921][288]LogWorld: Bringing up level for play took: 0.001321
+[2021.07.12-14.58.41:921][288]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.07.12-14.58.41:925][288]PIE: Server logged in
+[2021.07.12-14.58.41:927][288]PIE: Play in editor total start time 0.112 seconds.
+[2021.07.12-14.59.00:539][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-14.59.00:539][473]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-14.59.00:539][473]LogSlate: Window 'BlockGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.12-14.59.00:545][473]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-14.59.00:545][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-14.59.00:552][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.12-14.59.00:558][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-14.59.00:583][473]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.12-14.59.00:583][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-14.59.00:584][473]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-14.59.00:590][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.07.12-14.59.00:615][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.07.12-14.59.00:628][474]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.07.12-15.02.45:482][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.07.12-15.02.45:496][188]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonExampleMap_Auto8A46A712B415287EE475DBAB10111F70B.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonExampleMap_Auto8.umap'
+[2021.07.12-15.02.45:498][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonExampleMap' took 0.040
+[2021.07.12-15.02.45:498][188]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.07.12-15.04.16:340][  6]BlueprintLog: New page: Compile BP_Block
+[2021.07.12-15.04.16:387][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.07.12-15.04.16:579][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Block" FILE="../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/Blueprints/BP_Block.uasset" SILENT=true
+[2021.07.12-15.04.16:589][  6]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/BP_Block4E27B8F440C76EC5B1560FB0480AE9F7.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/Blueprints/BP_Block.uasset'
+[2021.07.12-15.04.16:606][  6]AssetCheck: New page: Asset Save: BP_Block
+[2021.07.12-15.04.16:606][  6]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2021.07.12-15.04.20:341][439]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.07.12-15.04.20:345][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.12-15.04.20:345][439]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2021, 7:04:20 AM)
+[2021.07.12-15.04.20:345][439]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-15.04.20:354][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008947s)
+[2021.07.12-15.04.20:355][439]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.12-15.04.20:356][439]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2021.07.12-15.04.20:356][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010247s)
+[2021.07.12-15.04.20:385][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.07.12-15.04.20:387][439]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.07.12-15.04.20:387][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.12-15.04.20:387][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.12-15.04.20:387][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.12-15.04.20:387][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.12-15.04.20:387][439]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.12-15.04.20:387][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.12-15.04.20:387][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.12-15.04.20:387][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.12-15.04.20:388][439]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.12-15.04.20:388][439]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.12-15.04.20:391][439]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.12-15.04.20:391][439]LogAudioMixer: Display: 1: FrontRight
+[2021.07.12-15.04.20:401][439]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.12-15.04.20:402][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.12-15.04.20:402][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.12-15.04.20:402][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.12-15.04.20:402][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.12-15.04.20:402][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.12-15.04.20:403][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.12-15.04.20:403][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.12-15.04.20:403][439]LogInit: FAudioDevice initialized.
+[2021.07.12-15.04.20:403][439]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2021.07.12-15.04.20:458][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-15.04.20:459][439]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.12-15.04.20:460][439]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.07.12-11.04.20
+[2021.07.12-15.04.20:460][439]LogWorld: Bringing up level for play took: 0.001233
+[2021.07.12-15.04.20:460][439]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.07.12-15.04.20:463][439]PIE: Server logged in
+[2021.07.12-15.04.20:464][439]PIE: Play in editor total start time 0.119 seconds.
+[2021.07.12-15.04.36:017][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-15.04.36:017][258]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-15.04.36:018][258]LogSlate: Window 'BlockGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.12-15.04.36:023][258]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-15.04.36:023][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-15.04.36:034][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.12-15.04.36:040][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-15.04.36:064][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.12-15.04.36:065][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-15.04.36:066][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-15.04.36:072][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.07.12-15.04.36:097][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.07.12-15.04.36:122][259]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.07.12-15.04.58:903][942]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.07.12-15.04.58:907][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.12-15.04.58:907][942]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2021, 7:04:58 AM)
+[2021.07.12-15.04.58:907][942]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-15.04.58:917][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009177s)
+[2021.07.12-15.04.58:918][942]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.07.12-15.04.58:918][942]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2021.07.12-15.04.58:918][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010821s)
+[2021.07.12-15.04.58:946][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.07.12-15.04.58:948][942]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.07.12-15.04.58:948][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.12-15.04.58:948][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.12-15.04.58:948][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.12-15.04.58:948][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.12-15.04.58:948][942]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.12-15.04.58:948][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.12-15.04.58:948][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.12-15.04.58:948][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.12-15.04.58:948][942]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.12-15.04.58:948][942]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.12-15.04.58:951][942]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.12-15.04.58:951][942]LogAudioMixer: Display: 1: FrontRight
+[2021.07.12-15.04.58:961][942]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.12-15.04.58:961][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.12-15.04.58:961][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.12-15.04.58:961][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.12-15.04.58:962][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.12-15.04.58:962][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.12-15.04.58:963][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.12-15.04.58:963][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.12-15.04.58:963][942]LogInit: FAudioDevice initialized.
+[2021.07.12-15.04.58:963][942]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2021.07.12-15.04.59:011][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-15.04.59:011][942]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.07.12-15.04.59:012][942]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.07.12-11.04.59
+[2021.07.12-15.04.59:012][942]LogWorld: Bringing up level for play took: 0.001175
+[2021.07.12-15.04.59:012][942]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.07.12-15.04.59:016][942]PIE: Server logged in
+[2021.07.12-15.04.59:018][942]PIE: Play in editor total start time 0.111 seconds.
+[2021.07.12-15.05.18:478][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.12-15.05.18:478][217]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.07.12-15.05.18:478][217]LogSlate: Window 'BlockGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.07.12-15.05.18:484][217]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.12-15.05.18:484][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-15.05.18:497][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.12-15.05.18:503][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.12-15.05.18:525][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-15.05.18:526][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.12-15.05.18:532][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.07.12-15.05.18:558][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.07.12-15.05.18:590][218]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.07.12-15.12.46:542][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.07.12-15.12.47:921][866]LogSlate: Window 'Save Content' being destroyed
+[2021.07.12-15.12.48:083][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.07.12-15.12.48:097][866]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonExampleMapE6904B9D4AF7B92914BA0D87D0E40585.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/FirstPerson/Maps/FirstPersonExampleMap.umap'
+[2021.07.12-15.12.48:197][866]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPerson/Maps/FirstPersonExampleMap_BuiltData
+[2021.07.12-15.12.48:448][866]LogSavePackage: Moving '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Saved/FirstPersonExampleMap_BuiltData6607111F4C3F75AC45621482CCA6079C.tmp' to '../../../../../../Users/Brian Hart/dev/UE5Projects/BlockGame/Content/FirstPerson/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.07.12-15.12.48:529][866]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/FirstPerson/Maps/FirstPersonExampleMap_BuiltData
+[2021.07.12-15.12.48:530][866]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.469
+[2021.07.12-15.12.48:539][866]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.12-15.12.48:540][866]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPerson/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.07.12-15.12.48:540][866]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/FirstPersonExampleMap.FirstPersonExampleMap
